@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Saya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h2>Portofolio</h2>
+        <button id="theme-toggle">Dark Mode 🌙</button>
+        <button class="menu-toggle">☰</button>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">Tentang</a></li>
+                <li><a href="#portfolio">Proyek</a></li>
+                <li><a href="#contact">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div>
+            <h1>Halo, Saya Yena</h1>
+            <p>Portofolio ini masih dalam proses pengembangan, yang nantinya akan diisi dengan proyek yang saya kerjakan terkait dengan data analytics.</p>
+    </section>
+
+    <section id="about">
+        <h2>Tentang Saya</h2>
+        <p>Saya tertarik mendalami dunia data analytics. Masih dalam tahap belajar dan portofolio ini adalah bagian dari perjalanan saya. </p>
+    </section>
+
+    <section id="portfolio" class="container">
+        <h2>Proyek Saya</h2>
+        <div class="project-container">
+            <div class="project">
+                <img src="images/fittrack.png" alt="FitTrack">
+                <h3>FitTrack - Aplikasi Kebugaran</h3>
+                <p>Aplikasi untuk membantu pemula melacak aktivitas olahraga.</p>
+            </div>
+            <div class="project">
+                <img src="images/mediappointments.png" alt="MediAppointments">
+                <h3>MediAppointments</h3>
+                <p>Aplikasi untuk mempermudah penjadwalan dan manajemen janji medis.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Hubungi Saya</h2>
+        <div class="contact-form">
+            <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+                <input type="text" name="name" placeholder="Nama" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <textarea name="message" rows="4" placeholder="Pesan" required></textarea>
+                <button type="submit">Kirim</button>
+            </form>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2025 [Nama Anda]. Semua Hak Dilindungi.</p>
+        <div class="social-icons">
+            <a href="#"><img src="images/linkedin.svg" alt="LinkedIn"></a>
+            <a href="#"><img src="images/github.svg" alt="GitHub"></a>
+        </div>
+    </footer>    
+    <script src="script.js"></script>
+</body>
+</html>
