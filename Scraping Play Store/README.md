@@ -1,7 +1,7 @@
 ## Web Scraping - Data Collection Project
 
 Ini adalah bagian web scraping dari proyek yang sedang saya kerjakan.
-Saya menggunakan Python, google-play-scraper, app-store-scraper untuk mengambil data dari Google Play Store dan App Store.
+Saya menggunakan Python dan google-play-scraper dalam proses scraping dari Play Store.
 
 ## 📁 Struktur Folder
 ├── 📄 README.md # Dokumentasi proyek 
