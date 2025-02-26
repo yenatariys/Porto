@@ -1,25 +1,10 @@
-## Web Scraping - Data Collection Project
+# 🚀 Portfolio Collection
 
-Ini adalah bagian web scraping dari proyek yang sedang saya kerjakan.
-Saya menggunakan Python dan google-play-scraper dalam proses scraping dari Play Store.
+Repositori ini berisi beberapa proyek portofolio terkait data analysis.
 
-## 📁 Struktur Folder
-├── 📄 README.md # Dokumentasi proyek 
-├── 📄 appstore-scraping.py # Script python untuk scraping data dari play store.
-├── 📄 requirements.txt # Daftar library yang diperlukan sebelum menjalankan script.
-├── 📄 play_store_hotstar.csv # Hasil scraping play store.
+## 📁 Daftar Proyek
+1. **Scraping Play Store** berisikan cara mengambil data ulasan dari play store melalui scraping.
+2. **Spotify Analysis (Maven)** berisikan analisis data spotify yang bersumber dari Maven Analytics.
 
-**Status Proyek:**
- ✅ Scraping data telah selesai
- ⏳Proses dan hasil analisis data akan ditambahkan nanti
-
-## Data yang dikumpulkan
-Data yang diambil meliputi:
-- Rating, ulasan dan tanggal posting pengguna.
-
-## Fitur
-✔️ Scraping data ulasan aplikasi
-✔️ Preprocessing Data
-✔️ Sentiment Analysis
-✔️ Cohort Analysis
-✔️ Topic Modeling
+## 🤝 Kontribusi
+Jika ingin berkontribusi atau memberikan masukan, silakan buat Issue atau Pull Request.
