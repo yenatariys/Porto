@@ -1,5 +1,5 @@
 ## Web Scraping - Data Collection Project
-#test commit
+
 Ini adalah bagian web scraping dari proyek yang sedang saya kerjakan.
 Saya menggunakan Python dan google-play-scraper dalam proses scraping dari Play Store.
 
