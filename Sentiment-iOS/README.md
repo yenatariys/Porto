@@ -1,3 +1,3 @@
 ## 📊 Analisis Sentimen
 
-### Distribsui Sentimen (images/distribusisentimen.jpg)
+### Distribusi Sentimen (images/distribusisentimen.jpg)
