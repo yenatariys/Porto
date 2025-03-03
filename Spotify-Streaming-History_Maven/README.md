@@ -55,6 +55,7 @@ Analisis dilakukan untuk menjawab beberapa pertanyaan berikut:
 ## 📊 Dashboard
 **Coba Sekarang** 👉 [Klik di sini](https://spotidashboardys.streamlit.app/)  
 
+© 2025 yenatariys
 
 
 
