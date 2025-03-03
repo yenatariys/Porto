@@ -38,3 +38,25 @@ Analisis dilakukan untuk menjawab beberapa pertanyaan berikut:
 ## 🔥 Hasil & Insight  
 ![image](https://github.com/user-attachments/assets/c3544fc9-ba81-4876-9548-1cabd20c93f6)
 
+![image](https://github.com/user-attachments/assets/e84fcb35-7368-4ef2-9fd6-fe35d9a545b2)
+
+![image](https://github.com/user-attachments/assets/75138896-c829-4e27-ae9e-02462ac66b94)
+
+![image](https://github.com/user-attachments/assets/1517e276-0aab-470a-ae7a-696d936a17f0)
+
+![image](https://github.com/user-attachments/assets/929d2abb-601b-47a7-ad71-b8bcad14e671)
+
+![image](https://github.com/user-attachments/assets/cb9d2304-9c3b-4fdf-8952-03dada87f37e)
+
+![image](https://github.com/user-attachments/assets/a2467efd-616d-4e8a-a646-848b6fa20862)
+
+![image](https://github.com/user-attachments/assets/499750b9-c6f3-4823-abb9-3473df6e55f1)
+
+
+
+
+
+
+
+
+
