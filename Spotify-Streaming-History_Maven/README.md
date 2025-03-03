@@ -5,7 +5,7 @@
 ## 📌 Overview  
 Proyek ini bertujuan untuk menganalisis kebiasaan pengguna dalam mendengarkan musik di Spotify. Dataset yang digunakan mencakup riwayat pemutaran lagu secara lengkap, termasuk **timestamp**, **track**, **artist**, **album**, dan alasan mulai/berhenti memutar lagu.  
 
-## 🚀 Project Status: In Progress (⚡ Ongoing Analysis)
+## 🚀 Project Status: Done
 
 ## 📂 Dataset  
 - **Sumber:** [Maven Analytics - Spotify Streaming History](https://mavenanalytics.io/data-playground)  
@@ -52,7 +52,8 @@ Analisis dilakukan untuk menjawab beberapa pertanyaan berikut:
 
 ![image](https://github.com/user-attachments/assets/499750b9-c6f3-4823-abb9-3473df6e55f1)
 
-
+## 📊 Dashboard
+**Coba Sekarang** 👉 [Klik di sini](https://spotidashboardys.streamlit.app/)  
 
 
 
