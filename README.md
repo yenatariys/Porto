@@ -9,3 +9,5 @@ Repositori ini berisi beberapa proyek portofolio terkait data analysis.
 
 ## 🤝 Kontribusi
 Jika ingin berkontribusi atau memberikan masukan, silakan buat Issue atau Pull Request.
+
+© 2025 yenatariys
