@@ -16,10 +16,14 @@ Proyek ini bertujuan untuk menganalisis kebiasaan pengguna dalam mendengarkan mu
 
 ## 🎯 Tujuan Analisis  
 Analisis dilakukan untuk menjawab beberapa pertanyaan berikut:  
-1. **Siapa artis yang paling sering didengarkan tahun ini?**  
-2. **Apa lagu yang paling banyak diputar dan seberapa sering pengguna melewatkan lagu?**  
-3. **Pada jam berapa pengguna biasanya mendengarkan musik?**  
-4. **Seberapa sering pengguna mendengarkan artis baru dibandingkan lagu favorit mereka?**  
+1. **Siapa artis yang paling sering didengarkan di tahun 2015?**  
+2. **Apa lagu yang paling sering didengarkan di tahun 2015?**
+3. **Perbandingan lagu yang diputar vs diskip (2015)**
+4. **Perbandingan Persentase Skip Lagu (2013-2015)**
+5. **Hubungan Jumlah Pemutaran vs Persentase Skip (2015)**
+6. **Hubungan Durasi Pemutaran vs Kecenderungan Skip (2015)**
+7. **Hubungan Durasi Pemutaran dengan Reason End**
+8. **Perbandingan Reason End antar Platform**
 
 ## 🛠️ Tools & Technologies  
 - **Python** (pandas, matplotlib, seaborn) 
@@ -28,9 +32,9 @@ Analisis dilakukan untuk menjawab beberapa pertanyaan berikut:
 ## 📈 Analisis yang Dilakukan  
 - **Data Cleaning:** Mengatasi missing values dan formatting data waktu.  
 - **Exploratory Data Analysis (EDA):** Menganalisis distribusi data dan pola mendengarkan musik.  
-- **Time Series Analysis:** Melihat tren berdasarkan hari dan jam pemutaran musik.  
-- **Artist & Song Popularity Analysis:** Menentukan artis dan lagu paling populer berdasarkan jumlah pemutaran.  
+- **Time Series Analysis:** Melihat tren berdasarkan durasi pemutaran musik.  
+- **Artist & Song Popularity Analysis:** Menentukan artis dan lagu paling populer berdasarkan jumlah pemutaran.
 
 ## 🔥 Hasil & Insight  
-
+![image](https://github.com/user-attachments/assets/c3544fc9-ba81-4876-9548-1cabd20c93f6)
 
