@@ -23,7 +23,7 @@ Analisis dilakukan untuk menjawab beberapa pertanyaan berikut:
 
 ## 🛠️ Tools & Technologies  
 - **Python** (pandas, matplotlib, seaborn) 
-- **Power BI / Tableau** (opsional untuk visualisasi interaktif) 
+- **Power BI / Tableau** (untuk visualisasi) ⌛ 
 
 ## 📈 Analisis yang Dilakukan  
 - **Data Cleaning:** Mengatasi missing values dan formatting data waktu.  
